@@ -18,11 +18,11 @@ const AboutSection = () => {
           <p className="text-base lg:text-lg">
             Rejoignez notre aventure pour créer une toute nouvelle association
             de rugby ! Ensemble, nous bâtirons une communauté passionnée qui
-            partage la camaraderie, l'esprit sportif et le plaisir du rugby. Que
-            vous soyez un joueur chevronné ou débutant, nous vous invitons à
+            partage la camaraderie, l&#39;esprit sportif et le plaisir du rugby.
+            Que vous soyez un joueur chevronné ou débutant, nous vous invitons à
             être partie prenante de cette aventure excitante. Venez façonner
-            l'avenir du rugby dans notre région en nous rejoignant dès
-            aujourd'hui !
+            l&#39;avenir du rugby dans notre région en nous rejoignant dès
+            aujourd&#39;hui !
           </p>
         </div>
       </div>

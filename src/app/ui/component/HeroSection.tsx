@@ -30,9 +30,9 @@ const HeroSection = () => {
           <p className="text-[#ADB7B3] text-base sm:text-lg mb-6 lg:text-xl">
             Découvrez le monde passionnant du rugby et rejoignez notre mission
             pour créer un club de rugby dynamique au cœur de notre ville.
-            Plongez dans l'action, l'histoire et la culture de ce sport
-            emblématique, et ensemble, faisons du rêve d'un club de rugby local
-            une réalité !
+            Plongez dans l&#39;action, l&#39;histoire et la culture de ce sport
+            emblématique, et ensemble, faisons du rêve d&#39;un club de rugby
+            local une réalité !
           </p>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
